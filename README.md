@@ -6,7 +6,7 @@ Welcome to my GitHub repository! Here, you'll find a collection of projects that
 
 Hi, I'm **Huzaifa Irfan** 👋  
 
-I focus on creating digital solutions that are easy to use and help Businesses grow. With a background in Computer Software Engineering, I leverage my skills in Web and Mobile Development, as well as digital marketing, to deliver scalable and dynamic Applications.  
+I build Websites, Mobile And Web Applications, provide SEO and Digital Marketing Solutions to help people grow. With a background in Computer Software Engineering, I leverage my skills in Web and Mobile Development, as well as digital marketing, to deliver scalable and dynamic Applications.  
 
 Whether you are a small Business or a growing Brand, I aim to build solutions that help you stand out in today's competitive digital landscape.
 
