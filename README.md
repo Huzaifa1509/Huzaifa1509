@@ -16,7 +16,7 @@ Whether you are a small Business or a growing Brand, I aim to build solutions th
 
 ## 🔍 What You’ll Find Here
 
-In this repository, you will discover a variety of projects that highlight my journey as a Developer. From creating responsive Websites to building Mobile Applications, each project represents a different aspect of my skills.  
+You will discover a variety of projects that highlight my journey as a Developer. From creating responsive Websites to building Mobile Applications, each project represents a different aspect of my skills.  
 
 ## 💬 Ask me about:
 - **Full Stack Development**.
